@@ -4,7 +4,7 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.cse438_rest_studio.R
+import com.example.cse438.studio3.R
 import com.example.cse438_rest_studio.data.Brewery
 
 

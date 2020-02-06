@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">studio3</string>
+    <string name = "my_breweries">my_breweries</string>
 </resources>
